@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<LaneMarkingViolationData>
+  <PenaltyPointsTotal>80</PenaltyPointsTotal>
+  <NumberOfLaneMarkingViolationInstances>6</NumberOfLaneMarkingViolationInstances>
+  <LaneMarkingViolationInstances>
+    <Instance>
+      <PenaltyPoints>30</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator speeding</Description>
+      <Time>139.591s</Time>
+      <Location>
+        <X>289.441315</X>
+        <Y>196.106171</Y>
+        <Z>-0.001194</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>140.053s</Time>
+      <Location>
+        <X>283.401093</X>
+        <Y>196.244766</Y>
+        <Z>-0.001270</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>140.508s</Time>
+      <Location>
+        <X>278.011627</X>
+        <Y>196.233047</Y>
+        <Z>-0.001292</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>140.900s</Time>
+      <Location>
+        <X>273.720825</X>
+        <Y>196.343506</Y>
+        <Z>-0.001219</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>141.609s</Time>
+      <Location>
+        <X>265.169250</X>
+        <Y>196.320801</Y>
+        <Z>-0.001171</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>141.908s</Time>
+      <Location>
+        <X>261.183533</X>
+        <Y>196.114777</Y>
+        <Z>-0.001171</Z>
+      </Location>
+    </Instance>
+  </LaneMarkingViolationInstances>
+</LaneMarkingViolationData>

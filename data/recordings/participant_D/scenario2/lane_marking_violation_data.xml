@@ -1,0 +1,447 @@
+<?xml version="1.0" ?>
+<LaneMarkingViolationData>
+  <PenaltyPointsTotal>1850</PenaltyPointsTotal>
+  <NumberOfLaneMarkingViolationInstances>44</NumberOfLaneMarkingViolationInstances>
+  <LaneMarkingViolationInstances>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>61.690s</Time>
+      <Location>
+        <X>-2.152977</X>
+        <Y>-116.504227</Y>
+        <Z>-0.000975</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>106.715s</Time>
+      <Location>
+        <X>13.355875</X>
+        <Y>-237.543274</Y>
+        <Z>0.088629</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>107.279s</Time>
+      <Location>
+        <X>18.808022</X>
+        <Y>-236.183411</Y>
+        <Z>0.522315</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>107.520s</Time>
+      <Location>
+        <X>20.787470</X>
+        <Y>-235.257019</Y>
+        <Z>0.693387</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>107.558s</Time>
+      <Location>
+        <X>21.097399</X>
+        <Y>-235.105835</Y>
+        <Z>0.720277</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>107.760s</Time>
+      <Location>
+        <X>22.561092</X>
+        <Y>-234.399033</Y>
+        <Z>0.848782</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>107.961s</Time>
+      <Location>
+        <X>23.874781</X>
+        <Y>-233.789368</Y>
+        <Z>0.962640</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>108.118s</Time>
+      <Location>
+        <X>24.683760</X>
+        <Y>-233.404327</Y>
+        <Z>1.036617</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>108.277s</Time>
+      <Location>
+        <X>25.329855</X>
+        <Y>-233.064392</Y>
+        <Z>1.098560</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>108.317s</Time>
+      <Location>
+        <X>25.473902</X>
+        <Y>-232.982529</Y>
+        <Z>1.112433</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>109.204s</Time>
+      <Location>
+        <X>27.831930</X>
+        <Y>-231.216064</Y>
+        <Z>1.348189</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>109.368s</Time>
+      <Location>
+        <X>28.351274</X>
+        <Y>-230.743866</Y>
+        <Z>1.404154</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>112.568s</Time>
+      <Location>
+        <X>40.396683</X>
+        <Y>-195.999588</Y>
+        <Z>4.449216</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>112.605s</Time>
+      <Location>
+        <X>40.495754</X>
+        <Y>-195.573471</Y>
+        <Z>4.483512</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>112.981s</Time>
+      <Location>
+        <X>41.320282</X>
+        <Y>-191.321213</Y>
+        <Z>4.821840</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>113.018s</Time>
+      <Location>
+        <X>41.384754</X>
+        <Y>-190.889511</Y>
+        <Z>4.855890</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>113.897s</Time>
+      <Location>
+        <X>42.000206</X>
+        <Y>-180.386993</Y>
+        <Z>5.681907</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>114.202s</Time>
+      <Location>
+        <X>41.882008</X>
+        <Y>-176.569153</Y>
+        <Z>5.980134</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>114.240s</Time>
+      <Location>
+        <X>41.871605</X>
+        <Y>-176.097046</Y>
+        <Z>6.017145</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>123.989s</Time>
+      <Location>
+        <X>56.455013</X>
+        <Y>-67.201508</Y>
+        <Z>4.699479</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>124.387s</Time>
+      <Location>
+        <X>56.468338</X>
+        <Y>-62.664532</Y>
+        <Z>4.337448</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>124.429s</Time>
+      <Location>
+        <X>56.483418</X>
+        <Y>-62.255337</Y>
+        <Z>4.304617</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>124.992s</Time>
+      <Location>
+        <X>56.927017</X>
+        <Y>-57.244057</Y>
+        <Z>3.899981</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>128.864s</Time>
+      <Location>
+        <X>73.145256</X>
+        <Y>-28.466120</Y>
+        <Z>1.121599</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>129.143s</Time>
+      <Location>
+        <X>73.372589</X>
+        <Y>-26.883858</Y>
+        <Z>0.987152</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>129.381s</Time>
+      <Location>
+        <X>73.536537</X>
+        <Y>-25.705830</Y>
+        <Z>0.891279</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>130.131s</Time>
+      <Location>
+        <X>73.884056</X>
+        <Y>-21.564056</Y>
+        <Z>0.598366</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>130.844s</Time>
+      <Location>
+        <X>73.594185</X>
+        <Y>-17.416382</Y>
+        <Z>0.367863</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>135.174s</Time>
+      <Location>
+        <X>71.833542</X>
+        <Y>-12.422031</Y>
+        <Z>0.164844</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>135.254s</Time>
+      <Location>
+        <X>71.796616</X>
+        <Y>-12.354947</Y>
+        <Z>0.162875</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>175.844s</Time>
+      <Location>
+        <X>53.362785</X>
+        <Y>59.891228</Y>
+        <Z>0.025722</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>176.119s</Time>
+      <Location>
+        <X>47.786991</X>
+        <Y>59.570648</Y>
+        <Z>0.025757</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>176.603s</Time>
+      <Location>
+        <X>37.150536</X>
+        <Y>59.196545</Y>
+        <Z>0.025743</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>176.803s</Time>
+      <Location>
+        <X>32.409634</X>
+        <Y>59.901512</Y>
+        <Z>0.025732</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>176.885s</Time>
+      <Location>
+        <X>30.486801</X>
+        <Y>60.352352</Y>
+        <Z>0.025728</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>177.084s</Time>
+      <Location>
+        <X>25.618202</X>
+        <Y>61.777977</Y>
+        <Z>0.026578</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>177.284s</Time>
+      <Location>
+        <X>20.600088</X>
+        <Y>63.152512</Y>
+        <Z>0.032387</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>177.519s</Time>
+      <Location>
+        <X>14.353722</X>
+        <Y>63.981228</Y>
+        <Z>0.034177</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>177.633s</Time>
+      <Location>
+        <X>11.272466</X>
+        <Y>63.921814</Y>
+        <Z>0.033830</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>177.908s</Time>
+      <Location>
+        <X>4.621419</X>
+        <Y>62.631435</Y>
+        <Z>0.033507</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>179.004s</Time>
+      <Location>
+        <X>-18.250093</X>
+        <Y>58.216389</Y>
+        <Z>0.034124</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>179.230s</Time>
+      <Location>
+        <X>-23.000734</X>
+        <Y>58.590820</Y>
+        <Z>0.033764</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>179.957s</Time>
+      <Location>
+        <X>-38.487213</X>
+        <Y>57.536167</Y>
+        <Z>0.033640</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>60</PenaltyPoints>
+      <Description>Solid lane marking speeding</Description>
+      <Time>180.144s</Time>
+      <Location>
+        <X>-42.502159</X>
+        <Y>57.036812</Y>
+        <Z>0.033594</Z>
+      </Location>
+    </Instance>
+  </LaneMarkingViolationInstances>
+</LaneMarkingViolationData>

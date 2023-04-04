@@ -1,0 +1,58 @@
+{
+    "path": "path5",
+    "scenario": "scenario5",
+    "difficulty": 400.0,
+    "intensity": 0.246,
+    "distance": 1434.506,
+    "average_speed": 21.979,
+    "stops": [
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        }
+    ]
+}

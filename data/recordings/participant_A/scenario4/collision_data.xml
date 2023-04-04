@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<CollisionData>
+  <PenaltyPointsTotal>900</PenaltyPointsTotal>
+  <NumberOfCollisionInstances>6</NumberOfCollisionInstances>
+  <CollisionInstances>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>3525.9931640625</CollisionIntensity>
+      <Time>22.731s</Time>
+      <Location>
+        <X>84.607597</X>
+        <Y>17.199566</Y>
+        <Z>0.107294</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>9.829837799072266</CollisionIntensity>
+      <Time>22.731s</Time>
+      <Location>
+        <X>84.607597</X>
+        <Y>17.199566</Y>
+        <Z>0.107294</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>262.41607666015625</CollisionIntensity>
+      <Time>22.761s</Time>
+      <Location>
+        <X>84.568298</X>
+        <Y>17.405727</Y>
+        <Z>0.113927</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>271.6788330078125</CollisionIntensity>
+      <Time>22.761s</Time>
+      <Location>
+        <X>84.568298</X>
+        <Y>17.405727</Y>
+        <Z>0.113927</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>257.55084228515625</CollisionIntensity>
+      <Time>22.761s</Time>
+      <Location>
+        <X>84.568298</X>
+        <Y>17.405727</Y>
+        <Z>0.113927</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>256.3132629394531</CollisionIntensity>
+      <Time>22.761s</Time>
+      <Location>
+        <X>84.568298</X>
+        <Y>17.405727</Y>
+        <Z>0.113927</Z>
+      </Location>
+    </Instance>
+  </CollisionInstances>
+</CollisionData>

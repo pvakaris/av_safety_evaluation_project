@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<CollisionData>
+  <PenaltyPointsTotal>1750</PenaltyPointsTotal>
+  <NumberOfCollisionInstances>7</NumberOfCollisionInstances>
+  <CollisionInstances>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>2755.770402244437</CollisionIntensity>
+      <Time>291.217s</Time>
+      <Location>
+        <X>337.319916</X>
+        <Y>-247.887314</Y>
+        <Z>0.002936</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>2.556426123476173</CollisionIntensity>
+      <Time>293.364s</Time>
+      <Location>
+        <X>337.374023</X>
+        <Y>-247.861496</Y>
+        <Z>0.002950</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>6.4395544520047725</CollisionIntensity>
+      <Time>295.441s</Time>
+      <Location>
+        <X>337.386597</X>
+        <Y>-247.859421</Y>
+        <Z>0.002940</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>1.2583287062757167</CollisionIntensity>
+      <Time>297.956s</Time>
+      <Location>
+        <X>337.392975</X>
+        <Y>-247.859039</Y>
+        <Z>0.002942</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>28.674113968338332</CollisionIntensity>
+      <Time>304.507s</Time>
+      <Location>
+        <X>335.556976</X>
+        <Y>-248.059738</Y>
+        <Z>0.002934</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>1037.6703421605387</CollisionIntensity>
+      <Time>343.894s</Time>
+      <Location>
+        <X>324.959381</X>
+        <Y>-250.191971</Y>
+        <Z>0.002942</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>154.02656158476</CollisionIntensity>
+      <Time>365.208s</Time>
+      <Location>
+        <X>321.020386</X>
+        <Y>-250.320984</Y>
+        <Z>0.002926</Z>
+      </Location>
+    </Instance>
+  </CollisionInstances>
+</CollisionData>

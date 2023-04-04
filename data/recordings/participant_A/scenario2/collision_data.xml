@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<CollisionData>
+  <PenaltyPointsTotal>2350</PenaltyPointsTotal>
+  <NumberOfCollisionInstances>15</NumberOfCollisionInstances>
+  <CollisionInstances>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>8250.791184990712</CollisionIntensity>
+      <Time>242.477s</Time>
+      <Location>
+        <X>-149.794952</X>
+        <Y>48.327583</Y>
+        <Z>-0.001186</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>226.3008123847671</CollisionIntensity>
+      <Time>265.761s</Time>
+      <Location>
+        <X>-197.741928</X>
+        <Y>43.060852</Y>
+        <Z>-0.001484</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>334.91592156597085</CollisionIntensity>
+      <Time>265.761s</Time>
+      <Location>
+        <X>-197.741928</X>
+        <Y>43.060852</Y>
+        <Z>-0.001484</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>82.89850507694504</CollisionIntensity>
+      <Time>265.761s</Time>
+      <Location>
+        <X>-197.741928</X>
+        <Y>43.060852</Y>
+        <Z>-0.001484</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>92.21264078851834</CollisionIntensity>
+      <Time>265.761s</Time>
+      <Location>
+        <X>-197.741928</X>
+        <Y>43.060852</Y>
+        <Z>-0.001484</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>56.48884013097153</CollisionIntensity>
+      <Time>265.761s</Time>
+      <Location>
+        <X>-197.741928</X>
+        <Y>43.060852</Y>
+        <Z>-0.001484</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>83.09917365120982</CollisionIntensity>
+      <Time>266.130s</Time>
+      <Location>
+        <X>-197.750488</X>
+        <Y>43.018959</Y>
+        <Z>-0.003513</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>0.6189934745467548</CollisionIntensity>
+      <Time>266.130s</Time>
+      <Location>
+        <X>-197.750488</X>
+        <Y>43.018959</Y>
+        <Z>-0.003513</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>51.85814782686673</CollisionIntensity>
+      <Time>266.130s</Time>
+      <Location>
+        <X>-197.750488</X>
+        <Y>43.018959</Y>
+        <Z>-0.003513</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>7.769791664314935</CollisionIntensity>
+      <Time>266.130s</Time>
+      <Location>
+        <X>-197.750488</X>
+        <Y>43.018959</Y>
+        <Z>-0.003513</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>40.78914183427255</CollisionIntensity>
+      <Time>266.130s</Time>
+      <Location>
+        <X>-197.750488</X>
+        <Y>43.018959</Y>
+        <Z>-0.003513</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>0.8514054220487757</CollisionIntensity>
+      <Time>266.537s</Time>
+      <Location>
+        <X>-197.760757</X>
+        <Y>42.964897</Y>
+        <Z>-0.005781</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>5.160840268197538</CollisionIntensity>
+      <Time>266.537s</Time>
+      <Location>
+        <X>-197.760757</X>
+        <Y>42.964897</Y>
+        <Z>-0.005781</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>6.163097986861451</CollisionIntensity>
+      <Time>266.706s</Time>
+      <Location>
+        <X>-197.765793</X>
+        <Y>42.934097</Y>
+        <Z>-0.005297</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>150</PenaltyPoints>
+      <Description>Hit road object</Description>
+      <CollisionIntensity>3979.0025441777348</CollisionIntensity>
+      <Time>332.408s</Time>
+      <Location>
+        <X>-146.709839</X>
+        <Y>-68.867905</Y>
+        <Z>0.018992</Z>
+      </Location>
+    </Instance>
+  </CollisionInstances>
+</CollisionData>

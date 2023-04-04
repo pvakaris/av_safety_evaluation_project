@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<RoadTrafficViolationData>
+  <PenaltyPointsTotal>600</PenaltyPointsTotal>
+  <NumberOfRoadTrafficViolationInstances>11</NumberOfRoadTrafficViolationInstances>
+  <RoadTrafficViolationInstances>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>33.252s</Time>
+      <Location>
+        <X>-23.948112</X>
+        <Y>-98.376923</Y>
+        <Z>-0.001357</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>50.407s</Time>
+      <Location>
+        <X>-11.866296</X>
+        <Y>-104.642769</Y>
+        <Z>-0.001328</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>64.009s</Time>
+      <Location>
+        <X>-0.318049</X>
+        <Y>-150.197037</Y>
+        <Z>-0.001392</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>100</PenaltyPoints>
+      <Description>Red light speeding</Description>
+      <Time>192.126s</Time>
+      <Location>
+        <X>4.179637</X>
+        <Y>59.033455</Y>
+        <Z>0.033577</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>197.043s</Time>
+      <Location>
+        <X>-91.167908</X>
+        <Y>53.835510</Y>
+        <Z>0.033335</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>241.923s</Time>
+      <Location>
+        <X>-144.614182</X>
+        <Y>48.348289</Y>
+        <Z>-0.001240</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>262.373s</Time>
+      <Location>
+        <X>-192.338043</X>
+        <Y>47.811539</Y>
+        <Z>-0.001356</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>278.556s</Time>
+      <Location>
+        <X>-199.537125</X>
+        <Y>-26.108810</Y>
+        <Z>-0.001501</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>322.536s</Time>
+      <Location>
+        <X>-158.857269</X>
+        <Y>-33.326820</Y>
+        <Z>0.224045</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>358.122s</Time>
+      <Location>
+        <X>-108.145714</X>
+        <Y>-96.868370</Y>
+        <Z>-0.001311</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>362.177s</Time>
+      <Location>
+        <X>-94.292000</X>
+        <Y>-100.068764</Y>
+        <Z>0.037840</Z>
+      </Location>
+    </Instance>
+  </RoadTrafficViolationInstances>
+</RoadTrafficViolationData>

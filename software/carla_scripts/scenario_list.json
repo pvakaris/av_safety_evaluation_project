@@ -1,0 +1,34 @@
+{
+    "scenarios": [
+        {
+            "name": "scenario1",
+            "details": "path1",
+            "vehicle": "vehicle.mercedes.coupe_2020",
+            "randomization_seed": 74111222
+        },
+        {
+            "name": "scenario2",
+            "details": "path2",
+            "vehicle": "vehicle.mercedes.coupe_2020",
+            "randomization_seed": 23115235
+        },
+        {
+            "name": "scenario3",
+            "details": "path3",
+            "vehicle": "vehicle.mercedes.coupe_2020",
+            "randomization_seed": 57894561
+        },
+        {
+            "name": "scenario4",
+            "details": "path4",
+            "vehicle": "vehicle.mercedes.coupe_2020",
+            "randomization_seed": 34586451
+        },
+        {
+            "name": "scenario5",
+            "details": "path5",
+            "vehicle": "vehicle.mercedes.coupe_2020",
+            "randomization_seed": 75861238
+        }
+    ]
+}

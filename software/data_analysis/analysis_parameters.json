@@ -1,0 +1,17 @@
+
+{
+    "participants": [
+        "participant_A"
+    ],
+    "scenarios": [
+        "scenario1"
+    ],
+    "metrics": [
+        "collision_data",
+        "lane_marking_violation_data",
+        "vehicle_light_misuse_data",
+        "route_data",
+        "speeding_data",
+        "road_traffic_violation_data"
+    ]
+}

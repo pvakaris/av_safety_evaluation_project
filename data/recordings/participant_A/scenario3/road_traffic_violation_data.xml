@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<RoadTrafficViolationData>
+  <PenaltyPointsTotal>150</PenaltyPointsTotal>
+  <NumberOfRoadTrafficViolationInstances>2</NumberOfRoadTrafficViolationInstances>
+  <RoadTrafficViolationInstances>
+    <Instance>
+      <PenaltyPoints>100</PenaltyPoints>
+      <Description>Red light speeding</Description>
+      <Time>244.608s</Time>
+      <Location>
+        <X>185.353943</X>
+        <Y>55.356689</Y>
+        <Z>-0.001209</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>292.900s</Time>
+      <Location>
+        <X>150.975266</X>
+        <Y>63.832748</Y>
+        <Z>-0.001328</Z>
+      </Location>
+    </Instance>
+  </RoadTrafficViolationInstances>
+</RoadTrafficViolationData>

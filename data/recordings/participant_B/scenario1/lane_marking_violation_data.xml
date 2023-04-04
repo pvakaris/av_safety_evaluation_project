@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<LaneMarkingViolationData>
+  <PenaltyPointsTotal>180</PenaltyPointsTotal>
+  <NumberOfLaneMarkingViolationInstances>11</NumberOfLaneMarkingViolationInstances>
+  <LaneMarkingViolationInstances>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>7.073s</Time>
+      <Location>
+        <X>112.727791</X>
+        <Y>-16.598013</Y>
+        <Z>-0.001356</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>8.127s</Time>
+      <Location>
+        <X>112.166199</X>
+        <Y>-20.295635</Y>
+        <Z>-0.001317</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>8.831s</Time>
+      <Location>
+        <X>111.235573</X>
+        <Y>-24.300163</Y>
+        <Z>-0.001331</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>20</PenaltyPoints>
+      <Description>Solid lane marking</Description>
+      <Time>9.516s</Time>
+      <Location>
+        <X>110.080620</X>
+        <Y>-28.763493</Y>
+        <Z>-0.001412</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>12.405s</Time>
+      <Location>
+        <X>100.840469</X>
+        <Y>-45.958847</Y>
+        <Z>-0.001235</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>12.440s</Time>
+      <Location>
+        <X>100.683037</X>
+        <Y>-46.155869</Y>
+        <Z>-0.001235</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>12.948s</Time>
+      <Location>
+        <X>98.314606</X>
+        <Y>-48.928833</Y>
+        <Z>-0.000659</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>12.985s</Time>
+      <Location>
+        <X>98.136833</X>
+        <Y>-49.122723</Y>
+        <Z>-0.000821</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>40</PenaltyPoints>
+      <Description>Double solid lane marking</Description>
+      <Time>114.710s</Time>
+      <Location>
+        <X>61.052479</X>
+        <Y>69.088615</Y>
+        <Z>-0.001220</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>157.863s</Time>
+      <Location>
+        <X>-43.964756</X>
+        <Y>105.042076</Y>
+        <Z>-0.001205</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>10</PenaltyPoints>
+      <Description>Broken line wrong or no turn indicator</Description>
+      <Time>158.523s</Time>
+      <Location>
+        <X>-44.385746</X>
+        <Y>100.623123</Y>
+        <Z>-0.001219</Z>
+      </Location>
+    </Instance>
+  </LaneMarkingViolationInstances>
+</LaneMarkingViolationData>

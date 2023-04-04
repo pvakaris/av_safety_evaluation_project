@@ -1,0 +1,12 @@
+def retrieve_points(filename):
+    try:
+        tree = ET.parse(args.lanePointsFile)
+        root = tree.getroot()
+        points = []
+        for obj in root.iter("point"):
+            x = float(obj.find("x").text)
+            y = float(obj.find("y").text)
+            points.append((x, y))
+        return points
+    except:
+        print("Couldn't read the {} file properly".format(filename))

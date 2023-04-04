@@ -1,0 +1,82 @@
+{
+    "path": "path3",
+    "scenario": "scenario3",
+    "difficulty": 450.0,
+    "intensity": 0.349,
+    "distance": 1126.883,
+    "average_speed": 23.322,
+    "stops": [
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        }
+    ]
+}

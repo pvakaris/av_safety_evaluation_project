@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<RoadTrafficViolationData>
+  <PenaltyPointsTotal>50</PenaltyPointsTotal>
+  <NumberOfRoadTrafficViolationInstances>1</NumberOfRoadTrafficViolationInstances>
+  <RoadTrafficViolationInstances>
+    <Instance>
+      <PenaltyPoints>50</PenaltyPoints>
+      <Description>Red light</Description>
+      <Time>68.915s</Time>
+      <Location>
+        <X>40.635757</X>
+        <Y>53.354595</Y>
+        <Z>-0.001025</Z>
+      </Location>
+    </Instance>
+  </RoadTrafficViolationInstances>
+</RoadTrafficViolationData>

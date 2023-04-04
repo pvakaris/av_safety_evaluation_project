@@ -1,0 +1,34 @@
+{
+    "path": "path4",
+    "scenario": "scenario4",
+    "difficulty": 500.0,
+    "intensity": 0.279,
+    "distance": 652.794,
+    "average_speed": 11.269,
+    "stops": [
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        },
+        {
+            "name": "Junction",
+            "time": 12
+        }
+    ]
+}

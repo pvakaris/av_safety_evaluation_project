@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<CollisionData>
+  <PenaltyPointsTotal>250</PenaltyPointsTotal>
+  <NumberOfCollisionInstances>1</NumberOfCollisionInstances>
+  <CollisionInstances>
+    <Instance>
+      <PenaltyPoints>250</PenaltyPoints>
+      <Description>Hit vehicle</Description>
+      <CollisionIntensity>3384.0820109490373</CollisionIntensity>
+      <Time>109.455s</Time>
+      <Location>
+        <X>127.519028</X>
+        <Y>-184.127060</Y>
+        <Z>0.037297</Z>
+      </Location>
+    </Instance>
+  </CollisionInstances>
+</CollisionData>

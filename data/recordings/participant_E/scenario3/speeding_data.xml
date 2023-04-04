@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<SpeedingData>
+  <PenaltyPointsTotal>8</PenaltyPointsTotal>
+  <NumberOfSpeedingInstances>8</NumberOfSpeedingInstances>
+  <SpeedingInstances>
+    <Instance>
+      <PenaltyPoints>1</PenaltyPoints>
+      <Description>Speeding under 20km/h</Description>
+      <AllowedSpeed>30.0</AllowedSpeed>
+      <PlayerSpeed>30.27</PlayerSpeed>
+      <Time>3.419s</Time>
+      <Location>
+        <X>33.258698</X>
+        <Y>-193.124222</Y>
+        <Z>0.000462</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>1</PenaltyPoints>
+      <Description>Speeding under 20km/h</Description>
+      <AllowedSpeed>30.0</AllowedSpeed>
+      <PlayerSpeed>30.32</PlayerSpeed>
+      <Time>3.483s</Time>
+      <Location>
+        <X>33.679714</X>
+        <Y>-193.116592</Y>
+        <Z>0.000125</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>1</PenaltyPoints>
+      <Description>Speeding under 20km/h</Description>
+      <AllowedSpeed>30.0</AllowedSpeed>
+      <PlayerSpeed>30.09</PlayerSpeed>
+      <Time>3.548s</Time>
+      <Location>
+        <X>34.098919</X>
+        <Y>-193.109100</Y>
+        <Z>-0.000211</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>1</PenaltyPoints>
+      <Description>Speeding under 20km/h</Description>
+      <AllowedSpeed>30.0</AllowedSpeed>
+      <PlayerSpeed>30.1</PlayerSpeed>
+      <Time>4.534s</Time>
+      <Location>
+        <X>40.365906</X>
+        <Y>-192.974625</Y>
+        <Z>-0.001108</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>1</PenaltyPoints>
+      <Description>Speeding under 20km/h</Description>
+      <AllowedSpeed>30.0</AllowedSpeed>
+      <PlayerSpeed>30.06</PlayerSpeed>
+      <Time>159.188s</Time>
+      <Location>
+        <X>70.683746</X>
+        <Y>7.576837</Y>
+        <Z>-0.001126</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>1</PenaltyPoints>
+      <Description>Speeding under 20km/h</Description>
+      <AllowedSpeed>30.0</AllowedSpeed>
+      <PlayerSpeed>30.05</PlayerSpeed>
+      <Time>169.978s</Time>
+      <Location>
+        <X>143.216888</X>
+        <Y>8.659858</Y>
+        <Z>-0.001126</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>1</PenaltyPoints>
+      <Description>Speeding under 20km/h</Description>
+      <AllowedSpeed>30.0</AllowedSpeed>
+      <PlayerSpeed>30.04</PlayerSpeed>
+      <Time>242.177s</Time>
+      <Location>
+        <X>109.816628</X>
+        <Y>59.043133</Y>
+        <Z>-0.001118</Z>
+      </Location>
+    </Instance>
+    <Instance>
+      <PenaltyPoints>1</PenaltyPoints>
+      <Description>Speeding under 20km/h</Description>
+      <AllowedSpeed>30.0</AllowedSpeed>
+      <PlayerSpeed>30.11</PlayerSpeed>
+      <Time>260.541s</Time>
+      <Location>
+        <X>122.940308</X>
+        <Y>62.546257</Y>
+        <Z>-0.001114</Z>
+      </Location>
+    </Instance>
+  </SpeedingInstances>
+</SpeedingData>
