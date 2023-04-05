@@ -5,6 +5,7 @@ This repository holds data and code related to the CS Bachelor's thesis.
 - [Forms](./forms/)
 - [Software bundle](./software)
 - [Data storage](./data)
+- [Research paper](./research_paper/Testing_vehicle_safety_in_simulated_driving_scenarios.pdf)
 
 ---
 
